@@ -11,11 +11,12 @@
     
 
 ## 3. Phát biểu
-    Chúng ta nên hạn chế việc chỉnh sửa bên trong một Class hoặc Module có sẵn, thay vào đó hãy xem xét mở rộng chúng.
+    Chúng ta nên hạn chế việc chỉnh sửa bên trong một Class hoặc Module có sẵn, 
+    thay vào đó hãy xem xét mở rộng chúng.
 
 ## 4. Ví dụ:
-![img.png](img.png)
-![img_1.png](img_1.png)    
+![img.png](../docs/img.png)
+![img_1.png](../docs/img_1.png)    
 
 
 ## 5. Tham khảo:
