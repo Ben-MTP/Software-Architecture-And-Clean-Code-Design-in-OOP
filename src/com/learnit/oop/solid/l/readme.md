@@ -20,8 +20,12 @@
     (Có thể ở đây: là có - hoặc không? -> cần phải phù hợp về mặt business)
 
 ## 4. Ví dụ
-
-
+![img.png](../docs/img-list-birds.png)
+    
+    Cần giải quyết vấn đề trên bằng cách vấn đề trên thì phải chia nhỏ ra các trường hợp
+    có thể có trong business:
+        Bird(eat, fly) -> Bird(eat, other method) + FlyingBird(fly)...
+    
 ## 5. Tham khảo
     1. Udemy
     2. SOLID – Nguyên tắc 3: Tính khả dĩ thay thế – Liskov substitution principle (LSP)
